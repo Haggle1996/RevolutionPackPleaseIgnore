@@ -9,3 +9,7 @@ I'm doing something a bit different here -- instead of listing every single chan
 
 ## Fossils and Archeology
 - Removed Academy, Aztec Workshop, Fossil Sites, and Temple structures
+
+## JABBA
+- Disabled diamond dolly
+- Reversed the click behavior, so click = 1, shift+click = stack
