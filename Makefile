@@ -11,3 +11,5 @@ clean:
 	-rm -Rf llibrary
 	-rm -Rf backups
 	-rm -Rf local
+	-rm -Rf asm
+	
