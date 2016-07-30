@@ -18,10 +18,10 @@ cinnabar, copper, lead, tungsten, silver, gold, iron, diamond, redstone, nickel,
 # Road Stuff
 - Replace bitumen in recipes or generate
 
-# Roguelike Dungeons
-- Fix bunker structure material
-
 # Techguns
 - Titanium ore
 
 # Ztones needs chisel tones scripts
+
+# Miscellaneous
+- Inventory Tweaks copy config
