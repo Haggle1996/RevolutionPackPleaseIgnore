@@ -45,6 +45,8 @@ usercache.json
 localconfig.cfg
 Reika.DragonAPI.ModInteract.DeepInteract.FrameBlacklist.classdata
 Reika.DragonAPI.ModInteract.DeepInteract.ReikaMystcraftHelper.classdata
+settings.rtg
+TimeUsage.txt
 
 # Miscellaneous #
 *.log
