@@ -25,3 +25,5 @@ cinnabar, copper, lead, tungsten, silver, gold, iron, diamond, redstone, nickel,
 
 # Miscellaneous
 - Inventory Tweaks copy config
+- Copy dynamic surroundings config
+- Plant mega pack config from REV1
