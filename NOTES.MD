@@ -8,6 +8,7 @@ cinnabar, copper, lead, tungsten, silver, gold, iron, diamond, redstone, nickel,
 
 # Advanced Rocketry
 - standard ores should be expanded to include world-gen ores.
+- <advancedRocketry:ore0> dilithium
 
 # Project Red
 - Needs recipe changes to remove dependence on ores

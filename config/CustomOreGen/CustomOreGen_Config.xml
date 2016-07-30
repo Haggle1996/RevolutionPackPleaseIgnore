@@ -539,7 +539,7 @@
     <OptionalImport file='modules/mods/*.xml'/>
     
     <!-- ******************** Import Custom Configs ************************ -->
-    <OptionalImport file='modules/custom/*.xml'/> 
+    <!-- <OptionalImport file='modules/custom/*.xml'/> --> 
 
     <!-- Gregtech checks for other ores' oredict values.  Uncomment the
 	 the following to have it override custom configurations -->
