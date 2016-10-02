@@ -13,3 +13,10 @@ I'm doing something a bit different here -- instead of listing every single chan
 ## JABBA
 - Disabled diamond dolly
 - Reversed the click behavior, so click = 1, shift+click = stack
+
+## First Day Guide
+
+### Server Operator Tips
+Separate Landmasses in Climate Control/RTG
+
+Mobs do not spawn on the surface, but are much increased under ground. They are attracted to lights, but do not break them.
